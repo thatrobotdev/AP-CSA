@@ -16,3 +16,5 @@ This repository holds a lot of small assignments, and some big projects for the 
 **Note:**
 This project uses [GridWorld](https://apcentral.collegeboard.org/pdf/gridworld-ap-compscience.pdf?course=ap-computer-science-a) as an external library. All copyrights are owned by their respective authors.
 
+TODO: Get this working in IntelliJ and VSCode. There are a lot of build errors that can probably be resolved with some configuration changes.
+
