@@ -11,6 +11,9 @@ public class BugRunnerTest {
         Bug buggy = new Bug();
         world.add(buggy);
         world.add(new Rock());
+
+
+
         world.show();
         buggy.moveTo(new Location(1, 3));
     }

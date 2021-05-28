@@ -1,9 +1,5 @@
 public class Rand {
 
-    /*
-    This was part of homework to learn the Math.random() class.
-     */
-
     public static void main(String[] args) {
         randIED(0.0, 10.0);
         randIED(0.0, 100.0);

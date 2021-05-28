@@ -1,11 +1,6 @@
 public class Loops {
     public static void main(String[] args) {
 
-        /*
-        This was part of homework for creating a series of numbers programmatically using loops.
-        I used StringBuilder for the first time, as well as many new java classes to me.
-         */
-
         StringBuilder sequence1 = new StringBuilder();
         for(int i = 0; i < 9; i++) { // 0, 1, 2, 3, 4, 5, 6, 7, 8
             sequence1.append(i).append(", ");
