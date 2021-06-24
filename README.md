@@ -4,7 +4,7 @@ This repository is a collection of my assignments for AP Computer Science A, or 
 
 **WARNING:** Some programs might be incomplete, or uncommented.
 
-- **[fraction](src/apcs/fraction)** [(docs)](src/apcs/fraction/doc/apcs/fraction/Fraction.html) - Class that models a fraction, with ~25 public methods. This class allows you to store fractions in Java without any loss in precision you would get with float division. It handles edge cases like undefined fractions, as well as input support for mixed fractions and integer operands. It also automatically simplifies any fractions it returns. Each method is documented, and mostly tested.  
+- **[fraction](src/apcs/fraction)** [(docs)](https://ap-csa.thatrobot.dev/src/apcs/fraction/doc/apcs/fraction/Fraction.html) - Class that models a fraction, with ~25 public methods. This class allows you to store fractions in Java without any loss in precision you would get with float division. It handles edge cases like undefined fractions, as well as input support for mixed fractions and integer operands. It also automatically simplifies any fractions it returns. Each method is documented, and mostly tested.  
 - **[grades](src/apcs/grades)** - Calculates min/max/average/median value for user input of test scores.
 - **[gridWorld](src/apcs/gridWorld)** - A collection of programs experimenting with [GridWorld](https://apcentral.collegeboard.org/pdf/gridworld-ap-compscience.pdf?course=ap-computer-science-a).
 - **[inheritance](src/apcs/inheritance)** - A playground for testing inheritance in Java.
@@ -19,7 +19,7 @@ This repository is a collection of my assignments for AP Computer Science A, or 
 - **[project3](src/apcs/project3)** - Program that converts kilometers to nautical miles.
 - **[rect](src/apcs/rect)** - Class that models a rectangle.
 - **[search](src/apcs/search)** - Playground for searching arrays.
-- **[student](src/apcs/student)** [(docs)](src/apcs/student/doc/apcs/student/Student.html) - Class that models a student.
+- **[student](src/apcs/student)** [(docs)](https://ap-csa.thatrobot.dev/src/apcs/student/doc/apcs/student/Student.html) - Class that models a student.
 - **[turtles](src/apcs/turtles)** - Some turtle drawings.
 
 **Note:**
