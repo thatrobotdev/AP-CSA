@@ -1,7 +1,7 @@
-# apcs
-This repository holds all of my code for AP Computer Science at my high school.
+# AP CSA
+**This repository holds all of my code for AP Computer Science A at my high school.**
 
-This repository holds a lot of small assignments, and some big projects for the first semester. Some programs might be incomplete, or uncommented. Here are some highlights:
+This repository holds a lot of small assignments, and some big projects for the course. Some programs might be incomplete, or uncommented.
 
 - **[fraction](src/apcs/fraction/Fraction.java)** [(docs)](src/apcs/fraction/doc/apcs/fraction/Fraction.html) - Class that models a fraction, with ~25 public methods. This class allows you to store fractions in Java without any loss in precision you would get with float division. It handles edge cases like undefined fractions, as well as input support for mixed fractions and integer operands. It also automatically simplifies any fractions it returns. Each method is documented, and mostly tested.  
 - **[grades](src/apcs/grades/Runner.java)** - Calculates min/max/average/median value for user input of test scores.
@@ -23,4 +23,3 @@ This repository holds a lot of small assignments, and some big projects for the 
 
 **Note:**
 This project uses [GridWorld](https://apcentral.collegeboard.org/pdf/gridworld-ap-compscience.pdf?course=ap-computer-science-a) as an external library. All copyrights are owned by their respective authors.
-
